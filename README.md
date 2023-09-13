@@ -29,7 +29,7 @@ To send message to **single** client, you can use the id of the client to specif
 ```bash
 <id>:<message>
 ```
-To broadcast to **all clients**, you can use `*` to specify the client.
+To broadcast to **all clients**, you can use `*` to launch broadcast.
 ```bash
 *:<message>
 ```
